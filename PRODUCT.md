@@ -26,7 +26,6 @@ A one-person studio. The same person builds the products and does the consulting
 
 - One page listing Products and Services (consulting), plus a footer with a contact email.
 - Services is currently consulting only: "Architecture, prototyping, and product engineering." Clients reach it by email.
-- Open: one-line descriptions for seek and threesixfive.
 
 ## Brand Commitments
 
@@ -36,7 +35,7 @@ A one-person studio. The same person builds the products and does the consulting
 
 ## Evidence on Hand
 
-Products (real, linked from the home page): variart (variart.io), seek (seek.io), overplayed (overplayed.app), ScoutDays (scoutdays.app), threesixfive (threesixfive.photos). The one-liners describe what each product does, based on its own site. threesixfive.photos returned a 404 (September 2026) and has no confirmed description, so don't invent one. There are no testimonials, clients or metrics; don't fabricate any.
+Products (real, linked from the home page): variart (variart.io), seek (seek.io), overplayed (overplayed.app), ScoutDays (scoutdays.app), threesixfive (threesixfive.photos). The one-liners describe what each product does, based on its own site. threesixfive makes printed calendars with one of your photos every day (description from the owner). There are no testimonials, clients or metrics; don't fabricate any.
 
 ## Product Principles
 
